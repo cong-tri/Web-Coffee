@@ -1,0 +1,25 @@
+.header{text-align: center; background-color: #394b59; color: white; padding: 2px;}
+.navbar ul {
+    list-style-type: none;
+    padding: 10px;
+    display: block;
+}
+.navbar ul li { display: inline-block;}
+.navbar ul li a {
+    display: block;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.content h2{ text-align: center; color: orange; }
+.content p{ padding-left: 50%; text-align: right; }
+.clear{clear: both;}
+.intro h2{text-align: center; color: orange;}
+.intro ul{list-style-type: circle;}
+.intro ul li{color: blue;}
+.intro ol{list-style-type: upper-roman;}
+.menu{text-align: center;}
+.menu h1{color: orange;}
+.menu table{margin: auto; width: 500px; height: 300px; border-width: 5px;}
+.footer{text-align: center;}.footer h1{color: orange;}.footer b{color: blue; text-decoration: underline;}
